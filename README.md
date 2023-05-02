@@ -5,6 +5,7 @@ This is a simple Rust program that generates a random sequence of chords. The pr
 ## Installation
 
 Clone this repository: git clone git@github.com:nogibjj/week10_ds581.git
+
 Navigate to the project directory: cd week10_ds581
 
 ## Usage
